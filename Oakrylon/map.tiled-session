@@ -1,0 +1,82 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Grass": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.0729,
+            "scaleInEditor": 1
+        },
+        "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx": {
+            "scale": 0.7432,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 259.6878363832078,
+                "y": 524.0850376749192
+            }
+        },
+        "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx#Grass": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.9986
+        },
+        "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx#Structures": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5461
+        },
+        "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx#Walls": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.6166
+        },
+        "/Users/user/Downloads/Coding/Tiled/main.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 0.8269,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 434.1516507437418,
+                "y": 492.80445035675416
+            }
+        },
+        "map.tmx#Oakrylon": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/user/Downloads/Coding/Lua/Oakrylon",
+    "last.externalTilesetPath": "/Users/user/Downloads/Coding/Lua/Oakrylon",
+    "last.imagePath": "/Users/user/Downloads/Coding/Lua/2D Game/Tilesets",
+    "map.fixedSize": false,
+    "map.height": 100,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "/Users/user/Downloads/Coding/Lua/2D Game/2D Game Map.tmx",
+        "map.tmx",
+        "/Users/user/Downloads/Coding/Tiled/main.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
